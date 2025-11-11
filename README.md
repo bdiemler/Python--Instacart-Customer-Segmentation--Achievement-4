@@ -53,4 +53,4 @@ Instacart-Customer-Segmentation-EDA/
 |-- README.md                             # This file
 
 ## Data Citation
-The Instacart Online Grocery Shopping Dataset 2017, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on February 2025.
+The Instacart Online Grocery Shopping Dataset 2017, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on October 2025.
